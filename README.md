@@ -9,17 +9,17 @@
 API para gerenciamento de compensação de carbono para empresas parceiras.
 
 ## 📋 Tabela de Conteúdos
-- [Introdução](#-introdução)
-- [Pré-requisitos](#-pré-requisitos)
-- [Autenticação](#-autenticação)
-- [Endpoints](#-endpoints)
-  - [Login](#login)
-  - [Usuários](#usuários)
-  - [Clientes](#clientes)
-  - [Materiais](#materiais)
-  - [Declarações](#declarações)
-  - [Dashboard](#dashboard)
-- [Regras de Acesso](#-regras-de-acesso)
+- [Introdução]
+- [Pré-requisitos]
+- [Autenticação]
+- [Endpoints]
+  - [Login]
+  - [Usuários]
+  - [Clientes]
+  - [Materiais]
+  - [Declarações]
+  - [Dashboard]
+- [Regras de Acesso]
 
 ## 🌟 Introdução
 O ReciclaVille é uma plataforma que permite:
